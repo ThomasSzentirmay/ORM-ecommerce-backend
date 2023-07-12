@@ -24,4 +24,16 @@ ChatGPT was utilized to debug, and fixes issues regarding .env configuration. Bu
 
 MIT License
 
-Refer to 'License' in the project repository for further information on the limitations and usability of this application under the MIT license applied to this project. 
+Refer to 'License' in the project repository for further information on the limitations and usability of this application under the MIT license applied to this project.
+
+## Tests
+
+Use Insomnia Core to test api routes for data.
+
+## Features 
+
+N/A
+
+## Badges
+
+N/A
