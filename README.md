@@ -1,12 +1,12 @@
-# E-commerce Back End Starter Code
+# ORM E-Commerce Backend
 
 ## Description
 
 This application is the backend of an ecommerce site. It is connected to a MySQL database using the node package Sequelize, and stores data such as products, prices, tags and more. The application is built using ExpressJS, NodeJS and MySQL. Once the server is live, we can test all api routes to see the displays of data available.
 
+![Screenshot 2023-07-12 194140](https://github.com/ThomasSzentirmay/ORM-ecommerce-backend/assets/132217664/fd4aca31-9a15-476f-ad08-b7dbf947941d)
 
-
-Video Walkthrough:
+Video Walkthrough:https://drive.google.com/file/d/1Y8iJBW4LirDKqKbyl3fg-VOs4EDrRN-E/view?usp=sharing
 
 ## Installation
 
