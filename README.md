@@ -6,7 +6,7 @@ This application is the backend of an ecommerce site. It is connected to a MySQL
 
 ![Screenshot 2023-07-12 194140](https://github.com/ThomasSzentirmay/ORM-ecommerce-backend/assets/132217664/fd4aca31-9a15-476f-ad08-b7dbf947941d)
 
-Video Walkthrough:https://drive.google.com/file/d/1Y8iJBW4LirDKqKbyl3fg-VOs4EDrRN-E/view?usp=sharing
+Video Walkthrough: https://drive.google.com/file/d/1QN-gkLMcD4VelkqoZZFr_sJ189XmNQen/view?usp=sharing
 
 ## Installation
 
@@ -18,7 +18,7 @@ Once installed (instructions above), enter your MySQL shell. Run 'source db/sche
 
 ## Credit
 
-ChatGPT was utilized to debug, and fixes issues regarding .env configuration. Building of th API routes was also assisted by ChatGPT.
+ChatGPT was utilized to debug, and fixes issues regarding .env configuration.
 
 ## License
 
